@@ -5,7 +5,7 @@
 }
 
 .main-header{
-    height: 25vh;
+    height: 80vh;
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -116,6 +116,7 @@ img{
         text-align: center;
         justify-content: center;
         align-items: center;
+        padding: 10px 0;
     }
 }
 
@@ -132,6 +133,7 @@ img{
         text-align: center;
         justify-content: center;
         align-items: center;
+        padding-top: 5px;
     }
 }
 @media(max-width: 600px){
@@ -147,6 +149,7 @@ img{
         text-align: center;
         justify-content: center;
         align-items: center;
+        padding-top: 5px;
     }
 }
 @media(max-width: 500px){
@@ -162,5 +165,6 @@ img{
         text-align: center;
         justify-content: center;
         align-items: center;
+        padding-top: 5px;
     }
 }
